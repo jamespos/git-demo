@@ -2,10 +2,6 @@
 
 This is a paragraph fpr the first repo file
 
-## Ipsum Below
+## Website Contents
 
-this is just text
-
-## Final Text
-
-This is the final text using the shortcut
+1. index.html
